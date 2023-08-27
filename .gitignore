@@ -1,0 +1,6 @@
+.env
+.env.swp
+keyword.conf
+logstash.conf
+
+

@@ -1,0 +1,7 @@
+pipeline:
+  batch:
+    size: 125
+    delay: 50
+  workers: 4
+  queue.type: persisted
+  path.config: "/usr/share/logstash/pipeline/*.conf"

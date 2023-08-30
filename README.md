@@ -1,9 +1,14 @@
 # elastic search 사용하기
 https://github.com/deviantony/docker-elk 사용
 
+<br>
+
 의류 브랜드 선택에 있어 가장 중요한 요소 중 하나인 브랜드 인지도를
 무신사 랭킹 순위를 바탕으로 알아보았다.
 
+<br>
+
+crawling -> mysql -> logstash -> elasticsearch -> kibana
 
 elasticsearch 적재 내역
 
